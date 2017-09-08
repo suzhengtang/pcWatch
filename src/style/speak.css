@@ -1,0 +1,46 @@
+.content11 {
+  height: 1400px;
+}
+.content11 .ct1-content .speak-content-left {
+  width: 442px;
+  height: 326px;
+}
+.content11 .ct1-content .speak-content-left img {
+  width: 442px;
+  height: 100%;
+}
+.content11 .ct1-content .speak-content-right {
+  width: 758px;
+  height: 326px;
+  float: left;
+  padding-top: 10px;
+  background-color: #fff;
+  padding-left: 24px;
+  box-sizing: border-box;
+}
+.content11 .ct1-content .speak-content-right h4 {
+  font-size: 34px;
+  font-weight: 400;
+}
+.content11 .ct1-content .speak-content-right .p-title {
+  font-size: 14px;
+  padding: 10px 0 20px 0;
+}
+.content11 .ct1-content .speak-content-right .a-title {
+  display: block;
+  width: 710px;
+  height: 100px;
+  color: #aaa;
+  line-height: 24px;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+.content11 .ct1-content .speak-content-right button {
+  width: 160px;
+  height: 50px;
+  background-color: #746cc0;
+  color: #fff;
+  font-size: 18px;
+  outline: none ;
+  border: none;
+}

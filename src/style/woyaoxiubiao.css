@@ -1,0 +1,61 @@
+.content44 {
+  background-color: #fff;
+  border-top: 1px solid #f1f1f1;
+}
+.content44 .ct4-city {
+  width: 550px;
+  height: 84px;
+  margin: 0 auto;
+  text-align: center;
+}
+.content44 .ct4-city label {
+  font-size: 14px;
+  color: #888;
+}
+.content44 .ct4-city select {
+  width: 150px;
+  height: 36px;
+  outline: none;
+  color: #888;
+}
+.content44 .ct4-page {
+  width: 246px;
+  height: 36px;
+  border: 1px solid #ccc;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+.content44 .ct4-page span {
+  text-align: center;
+  line-height: 36px;
+  float: left;
+}
+.content44 .ct4-page .page-left-same {
+  width: 36px;
+  height: 36px;
+  display: inline-block;
+  text-align: center;
+  line-height: 36px;
+}
+.content44 .ct4-page .page-up-same {
+  width: 69px;
+  height: 36px;
+  display: inline-block;
+  border-left: 1px solid #cccccc;
+  border-right: 1px solid #ccc;
+  box-sizing: border-box;
+}
+.content44 .ct4-page .page-center {
+  background-color: #dadada;
+}
+.content22 {
+  height: 322px;
+  margin-bottom: 50px;
+}
+.content22 .ct22-content {
+  text-align: center;
+  font-size: 14px;
+}
+.content22 .ct22-content p {
+  line-height: 24px;
+}
